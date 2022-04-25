@@ -3,12 +3,12 @@ Configure Git by defining the user name, email and enable output colouring. Show
 
 <details>
 <summary>  Solution </summary>
-    <code>
-        ```
-        git config --global user.name "Your-Full-Name"
-        git config --global user.email "your-email-address"
-        git config --global color.ui auto
-        git config --list
-        ```
-    </code>
+
+    ``` markdown
+    git config --global user.name "Your-Full-Name"
+    git config --global user.email "your-email-address"
+    git config --global color.ui auto
+    git config --list
+    ```
+
 </details>
