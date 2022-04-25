@@ -4,7 +4,7 @@ Configure Git by defining the user name, email and enable output colouring. Show
 <details>
 <summary>  Solution </summary>
 
-    ``` markdown
+    ``` 
     git config --global user.name "Your-Full-Name"
     git config --global user.email "your-email-address"
     git config --global color.ui auto
